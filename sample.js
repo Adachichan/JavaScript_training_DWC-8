@@ -6,8 +6,15 @@
 // console.log(nickname);
 
 // letによる再宣言
-let nickname = "taro";
+// let nickname = "taro";
+// console.log(nickname);
+
+// let nickname = "ichiro";
+// console.log(nickname);
+
+// constによる再宣言
+const nickname = "taro";
 console.log(nickname);
 
-let nickname = "ichiro";
+const nickname = "ichiro";
 console.log(nickname);
