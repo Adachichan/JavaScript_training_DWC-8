@@ -1,9 +1,9 @@
 // varによる再宣言
-// var nickname = "taro";
-// console.log(nickname);
+var nickname = "taro";
+console.log(nickname);
 
-// var nickname = "ichiro";
-// console.log(nickname);
+var nickname = "ichiro";
+console.log(nickname);
 
 // letによる再宣言
 // let nickname = "taro";
@@ -13,8 +13,8 @@
 // console.log(nickname);
 
 // constによる再宣言
-const nickname = "taro";
-console.log(nickname);
+// const nickname = "taro";
+// console.log(nickname);
 
-const nickname = "ichiro";
-console.log(nickname);
+// const nickname = "ichiro";
+// console.log(nickname);
